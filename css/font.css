@@ -1,0 +1,39 @@
+/* Обычный */
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 200;
+	src: url('../fonts/Gilroy-Light.woff') format('woff'),  
+		 url('../fonts/Gilroy-Light.ttf') format('ttf'),
+		 url('../fonts/Gilroy-Light.eot') format('eot');
+}
+  
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/Gilroy-Regular.woff') format('woff'), 
+		 url('../fonts/Gilroy-Regular.eot') format('eot'),
+		 url('../fonts/Gilroy-Regular.ttf') format('ttf'), 
+} 
+/* Жирный */
+@font-face {
+	font-family: 'Gilroy';
+	font-style: bold;
+	font-weight: 700;
+	src: url('../fonts/Gilroy-Bold.woff') format('woff'),  
+		 url('../fonts/Gilroy-Bold.ttf') format('ttf'),
+		 url('../fonts/Gilroy-Bold.eot') format('eot');
+}
+  
+
+/* Жирный */
+@font-face {
+	font-family: 'Gilroy';
+	font-style: bold;
+	font-weight: 800;
+	src: url('../fonts/Gilroy-Black.woff') format('woff'),  
+		 url('../fonts/Gilroy-Black.ttf') format('ttf'),
+		 url('../fonts/Gilroy-Black.eot') format('eot');
+}
+  
